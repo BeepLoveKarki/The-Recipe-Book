@@ -1,7 +1,7 @@
 # The Recipe Book
 # Device Friendly Web Development using C++ 
 
-This is a device friendly website designed completely via C++ with the help of Web Toolkit C++ (WT C++) framework (https://www.webtoolkit.eu/wt). It is a simple web application which fits the screen size across any screen device. It is a website containing platform for openly serving your recipe ideas via your email account!!! It contains around all major features of a website like email regexp regonition, email verification through code, navigation bar,etc. The only different here is the use of text files instead of database, since this project is created for debug process!!!
+This is a device friendly website designed completely via C++ with the help of Web Toolkit C++ (WT C++) framework (https://www.webtoolkit.eu/wt). It is a simple web application which fits the screen size across any screen device. It is a website containing platform for openly serving your recipe ideas via your email account!!! It contains around all major features of a website like email regexp regonition, email verification through code, navigation bar,etc. The only difference here is the use of text files instead of database, since this project is created for debug process!!!
 
 This project breaks the general trend of thinking C++ as not a language for web development!!! It makes C++ to speak "I am not as weak you think I am".
 
