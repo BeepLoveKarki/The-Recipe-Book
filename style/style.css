@@ -1,0 +1,15 @@
+﻿.home .navbar-brand{
+    margin-left:30px;
+    font-size:25px;
+    font-weight:600;
+    color:#FFFFFF;
+}
+.home .navbar-brand:hover{
+    color:#FFFFFF;
+}
+.home #lists li a {
+    color:#FFFFFF;
+}
+.home #lists>.active>a,.home #lists>.open>a{
+    background-color:#0000CD;
+}
