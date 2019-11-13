@@ -22,3 +22,15 @@ Some mobile screenshots of the website created are:
 
 <img src="https://github.com/BeepLoveKarki/The-Recipe-Book/blob/master/Screenshots/ss12.png"/>
 <img src="https://github.com/BeepLoveKarki/The-Recipe-Book/blob/master/Screenshots/ss13.png"/>
+
+Steps to run the project are as follows:
+
+1. Install MS Visual Studio (MSVC) 2015 or newer
+2. Download the required version of WT C++ framework as per the visual studio
+3. Import the project folder to MSVC IDE
+4. Right click on the project folder and select 'Properties' option
+5. In Configuration Properties -> Debugging, set command arguments to
+   --http-address=0.0.0.0 --http-port=8080 --deploy-path=/hello --docroot=.
+6. Browse http://localhost:8080/hello
+
+
